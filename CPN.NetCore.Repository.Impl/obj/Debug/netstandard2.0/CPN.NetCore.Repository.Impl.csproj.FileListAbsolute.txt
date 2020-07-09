@@ -1,0 +1,13 @@
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.deps.json
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.dll
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.pdb
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Entity.dll
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Repository.Spec.dll
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Entity.pdb
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\bin\Debug\netstandard2.0\CPN.NetCore.Repository.Spec.pdb
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\obj\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.csprojAssemblyReference.cache
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\obj\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.AssemblyInfoInputs.cache
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\obj\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.AssemblyInfo.cs
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\obj\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.csproj.CopyComplete
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\obj\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.dll
+C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.Repository.Impl\obj\Debug\netstandard2.0\CPN.NetCore.Repository.Impl.pdb

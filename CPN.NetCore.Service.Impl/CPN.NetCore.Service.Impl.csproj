@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CPN.NetCore.Service.Spec\CPN.NetCore.Service.Spec.csproj" />
+    <ProjectReference Include="..\CPN.NetCore.Repository.Spec\CPN.NetCore.Repository.Spec.csproj" />
+    <ProjectReference Include="..\CPN.NetCore.Entity\CPN.NetCore.Entity.csproj" />
+    <ProjectReference Include="..\CPN.NetCore.DTO\CPN.NetCore.DTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AutoMapping\Profiles\" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
