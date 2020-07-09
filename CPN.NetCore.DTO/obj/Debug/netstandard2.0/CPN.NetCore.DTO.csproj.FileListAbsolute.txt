@@ -1,7 +1,0 @@
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\bin\Debug\netstandard2.0\CPN.NetCore.DTO.deps.json
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\bin\Debug\netstandard2.0\CPN.NetCore.DTO.dll
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\bin\Debug\netstandard2.0\CPN.NetCore.DTO.pdb
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\obj\Debug\netstandard2.0\CPN.NetCore.DTO.AssemblyInfoInputs.cache
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\obj\Debug\netstandard2.0\CPN.NetCore.DTO.AssemblyInfo.cs
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\obj\Debug\netstandard2.0\CPN.NetCore.DTO.dll
-C:\cpngit\NetCore3.1_BasicArchitecureLayers\CPN.NetCore.DTO\obj\Debug\netstandard2.0\CPN.NetCore.DTO.pdb
